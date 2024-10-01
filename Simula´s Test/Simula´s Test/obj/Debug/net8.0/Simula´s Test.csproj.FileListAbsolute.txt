@@ -1,0 +1,14 @@
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\bin\Debug\net8.0\Simula´s Test.exe
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\bin\Debug\net8.0\Simula´s Test.deps.json
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\bin\Debug\net8.0\Simula´s Test.runtimeconfig.json
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\bin\Debug\net8.0\Simula´s Test.dll
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\bin\Debug\net8.0\Simula´s Test.pdb
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.AssemblyInfoInputs.cache
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.AssemblyInfo.cs
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.csproj.CoreCompileInputs.cache
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.dll
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\refint\Simula´s Test.dll
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.pdb
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\Simula´s Test.genruntimeconfig.cache
+C:\Users\Linda\Documents\Egna projekt\C# player's guide\Simula´s Test\Simula´s Test\obj\Debug\net8.0\ref\Simula´s Test.dll
